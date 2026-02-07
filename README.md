@@ -1,4 +1,4 @@
-<hi> Welcome to my profile </hi> 
+<hi > Welcome to my profile </hi> 
 * 👂 My name is Marc Lourenz Gangawan
 * 👩 Pronouns: dewer he/him 
 * 🔭 I’m currently working on Github project
